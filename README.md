@@ -1,5 +1,5 @@
 Documentação oficial da API exportcomments: <https://exportcomments.com/api>
 
-O export-comments tem uma API oficial python em <https://github.com/exportcomments/exportcomments-python>.
+O export-comments tem uma biblioteca oficial python em <https://github.com/exportcomments/exportcomments-python>.
 
-Usaremos o método de webhook, recomendado pela aplicação.
+Usaremos o método de webhooks (eventualmente), recomendado pela aplicação.
